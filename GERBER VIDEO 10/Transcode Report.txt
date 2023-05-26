@@ -1,0 +1,762 @@
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-B_Cu.gbr' ----   Wed May 17 22:06:57 2023
+
+D21   --> D100
+D22   --> D101
+D23   --> D102
+D24   --> D103
+D25   --> D104
+D26   --> D105
+D27   --> D106
+D28   --> D107
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-F_Paste.gbr' ----   Wed May 17 22:06:57 2023
+
+D10   --> D108
+D11   --> D109
+D12   --> D110
+D13   --> D111
+D14   --> D112
+D15   --> D113
+D16   --> D114
+D17   --> D115
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-F_Silkscreen.gbr' ----   Wed May 17 22:06:57 2023
+
+D10   --> D116
+D11   --> D117
+D12   --> D118
+D13   --> D119
+D14   --> D120
+D15   --> D121
+D16   --> D122
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-B_Mask.gbr' ----   Wed May 17 22:06:57 2023
+
+D21   --> D123
+D22   --> D124
+D23   --> D125
+D24   --> D126
+D25   --> D127
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-Edge_Cuts.gbr' ----   Wed May 17 22:06:57 2023
+
+D10   --> D128
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-F_Fab.gbr' ----   Wed May 17 22:06:57 2023
+
+D10   --> D129
+D11   --> D130
+D12   --> D131
+D13   --> D132
+D14   --> D133
+D15   --> D134
+D16   --> D135
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-B_Cu.gbr' ----   Thu May 18 10:29:06 2023
+
+D21   --> D100
+D22   --> D101
+D23   --> D102
+D24   --> D103
+D25   --> D104
+D26   --> D105
+D27   --> D106
+D28   --> D107
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-F_Paste.gbr' ----   Thu May 18 10:29:06 2023
+
+D10   --> D108
+D11   --> D109
+D12   --> D110
+D13   --> D111
+D14   --> D112
+D15   --> D113
+D16   --> D114
+D17   --> D115
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-F_Silkscreen.gbr' ----   Thu May 18 10:29:06 2023
+
+D10   --> D116
+D11   --> D117
+D12   --> D118
+D13   --> D119
+D14   --> D120
+D15   --> D121
+D16   --> D122
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-B_Mask.gbr' ----   Thu May 18 10:29:06 2023
+
+D21   --> D123
+D22   --> D124
+D23   --> D125
+D24   --> D126
+D25   --> D127
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-Edge_Cuts.gbr' ----   Thu May 18 10:29:06 2023
+
+D10   --> D128
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-F_Fab.gbr' ----   Thu May 18 10:29:06 2023
+
+D10   --> D129
+D11   --> D130
+D12   --> D131
+D13   --> D132
+D14   --> D133
+D15   --> D134
+D16   --> D135
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-B_Cu.gbr' ----   Thu May 18 11:42:02 2023
+
+D21   --> D100
+D22   --> D101
+D23   --> D102
+D24   --> D103
+D25   --> D104
+D26   --> D105
+D27   --> D106
+D28   --> D107
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-F_Paste.gbr' ----   Thu May 18 11:42:02 2023
+
+D10   --> D108
+D11   --> D109
+D12   --> D110
+D13   --> D111
+D14   --> D112
+D15   --> D113
+D16   --> D114
+D17   --> D115
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-F_Silkscreen.gbr' ----   Thu May 18 11:42:02 2023
+
+D10   --> D116
+D11   --> D117
+D12   --> D118
+D13   --> D119
+D14   --> D120
+D15   --> D121
+D16   --> D122
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-B_Mask.gbr' ----   Thu May 18 11:42:02 2023
+
+D21   --> D123
+D22   --> D124
+D23   --> D125
+D24   --> D126
+D25   --> D127
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-Edge_Cuts.gbr' ----   Thu May 18 11:42:02 2023
+
+D10   --> D128
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-F_Fab.gbr' ----   Thu May 18 11:42:02 2023
+
+D10   --> D129
+D11   --> D130
+D12   --> D131
+D13   --> D132
+D14   --> D133
+D15   --> D134
+D16   --> D135
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-B_Cu.gbr' ----   Thu May 18 11:44:20 2023
+
+D21   --> D100
+D22   --> D101
+D23   --> D102
+D24   --> D103
+D25   --> D104
+D26   --> D105
+D27   --> D106
+D28   --> D107
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-F_Paste.gbr' ----   Thu May 18 11:44:20 2023
+
+D10   --> D108
+D11   --> D109
+D12   --> D110
+D13   --> D111
+D14   --> D112
+D15   --> D113
+D16   --> D114
+D17   --> D115
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-F_Silkscreen.gbr' ----   Thu May 18 11:44:20 2023
+
+D10   --> D116
+D11   --> D117
+D12   --> D118
+D13   --> D119
+D14   --> D120
+D15   --> D121
+D16   --> D122
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-B_Mask.gbr' ----   Thu May 18 11:44:20 2023
+
+D21   --> D123
+D22   --> D124
+D23   --> D125
+D24   --> D126
+D25   --> D127
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-Edge_Cuts.gbr' ----   Thu May 18 11:44:20 2023
+
+D10   --> D128
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-F_Fab.gbr' ----   Thu May 18 11:44:20 2023
+
+D10   --> D129
+D11   --> D130
+D12   --> D131
+D13   --> D132
+D14   --> D133
+D15   --> D134
+D16   --> D135
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-B_Cu.gbr' ----   Thu May 18 17:36:04 2023
+
+D21   --> D100
+D22   --> D101
+D23   --> D102
+D24   --> D103
+D25   --> D104
+D26   --> D105
+D27   --> D106
+D28   --> D107
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-F_Paste.gbr' ----   Thu May 18 17:36:04 2023
+
+D10   --> D108
+D11   --> D109
+D12   --> D110
+D13   --> D111
+D14   --> D112
+D15   --> D113
+D16   --> D114
+D17   --> D115
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-F_Silkscreen.gbr' ----   Thu May 18 17:36:04 2023
+
+D10   --> D116
+D11   --> D117
+D12   --> D118
+D13   --> D119
+D14   --> D120
+D15   --> D121
+D16   --> D122
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-B_Mask.gbr' ----   Thu May 18 17:36:04 2023
+
+D21   --> D123
+D22   --> D124
+D23   --> D125
+D24   --> D126
+D25   --> D127
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-Edge_Cuts.gbr' ----   Thu May 18 17:36:04 2023
+
+D10   --> D128
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-F_Fab.gbr' ----   Thu May 18 17:36:04 2023
+
+D10   --> D129
+D11   --> D130
+D12   --> D131
+D13   --> D132
+D14   --> D133
+D15   --> D134
+D16   --> D135
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-B_Cu.gbr' ----   Fri May 19 14:40:35 2023
+
+D21   --> D100
+D22   --> D101
+D23   --> D102
+D24   --> D103
+D25   --> D104
+D26   --> D105
+D27   --> D106
+D28   --> D107
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-F_Paste.gbr' ----   Fri May 19 14:40:35 2023
+
+D10   --> D108
+D11   --> D109
+D12   --> D110
+D13   --> D111
+D14   --> D112
+D15   --> D113
+D16   --> D114
+D17   --> D115
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-F_Silkscreen.gbr' ----   Fri May 19 14:40:35 2023
+
+D10   --> D116
+D11   --> D117
+D12   --> D118
+D13   --> D119
+D14   --> D120
+D15   --> D121
+D16   --> D122
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-B_Mask.gbr' ----   Fri May 19 14:40:35 2023
+
+D21   --> D123
+D22   --> D124
+D23   --> D125
+D24   --> D126
+D25   --> D127
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-Edge_Cuts.gbr' ----   Fri May 19 14:40:35 2023
+
+D10   --> D128
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-F_Fab.gbr' ----   Fri May 19 14:40:35 2023
+
+D10   --> D129
+D11   --> D130
+D12   --> D131
+D13   --> D132
+D14   --> D133
+D15   --> D134
+D16   --> D135
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-Edge_Cuts.gbr' ----   Mon May 22 11:10:59 2023
+
+D10   --> D100
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-F_Courtyard.gbr' ----   Mon May 22 11:10:59 2023
+
+D10   --> D101
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-F_Cu.gbr' ----   Mon May 22 11:10:59 2023
+
+D21   --> D102
+D22   --> D103
+D23   --> D104
+D24   --> D105
+D25   --> D106
+D26   --> D107
+D27   --> D108
+D28   --> D109
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-F_Fab.gbr' ----   Mon May 22 11:10:59 2023
+
+D10   --> D110
+D11   --> D111
+D12   --> D112
+D13   --> D113
+D14   --> D114
+D15   --> D115
+D16   --> D116
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-F_Mask.gbr' ----   Mon May 22 11:10:59 2023
+
+D21   --> D117
+D22   --> D118
+D23   --> D119
+D24   --> D120
+D25   --> D121
+D26   --> D122
+D27   --> D123
+D28   --> D124
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-F_Paste.gbr' ----   Mon May 22 11:10:59 2023
+
+D10   --> D125
+D11   --> D126
+D12   --> D127
+D13   --> D128
+D14   --> D129
+D15   --> D130
+D16   --> D131
+D17   --> D132
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-F_Silkscreen.gbr' ----   Mon May 22 11:10:59 2023
+
+D10   --> D133
+D11   --> D134
+D12   --> D135
+D13   --> D136
+D14   --> D137
+D15   --> D138
+D16   --> D139
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-Edge_Cuts.gbr' ----   Tue May 23 13:54:10 2023
+
+D10   --> D100
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-F_Courtyard.gbr' ----   Tue May 23 13:54:10 2023
+
+D10   --> D101
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-F_Cu.gbr' ----   Tue May 23 13:54:10 2023
+
+D21   --> D102
+D22   --> D103
+D23   --> D104
+D24   --> D105
+D25   --> D106
+D26   --> D107
+D27   --> D108
+D28   --> D109
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-F_Fab.gbr' ----   Tue May 23 13:54:10 2023
+
+D10   --> D110
+D11   --> D111
+D12   --> D112
+D13   --> D113
+D14   --> D114
+D15   --> D115
+D16   --> D116
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-F_Mask.gbr' ----   Tue May 23 13:54:10 2023
+
+D21   --> D117
+D22   --> D118
+D23   --> D119
+D24   --> D120
+D25   --> D121
+D26   --> D122
+D27   --> D123
+D28   --> D124
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-F_Paste.gbr' ----   Tue May 23 13:54:10 2023
+
+D10   --> D125
+D11   --> D126
+D12   --> D127
+D13   --> D128
+D14   --> D129
+D15   --> D130
+D16   --> D131
+D17   --> D132
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-F_Silkscreen.gbr' ----   Tue May 23 13:54:10 2023
+
+D10   --> D133
+D11   --> D134
+D12   --> D135
+D13   --> D136
+D14   --> D137
+D15   --> D138
+D16   --> D139
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-Edge_Cuts.gbr' ----   Tue May 23 14:44:30 2023
+
+D10   --> D100
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-F_Courtyard.gbr' ----   Tue May 23 14:44:31 2023
+
+D10   --> D101
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-F_Cu.gbr' ----   Tue May 23 14:44:31 2023
+
+D21   --> D102
+D22   --> D103
+D23   --> D104
+D24   --> D105
+D25   --> D106
+D26   --> D107
+D27   --> D108
+D28   --> D109
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-F_Fab.gbr' ----   Tue May 23 14:44:31 2023
+
+D10   --> D110
+D11   --> D111
+D12   --> D112
+D13   --> D113
+D14   --> D114
+D15   --> D115
+D16   --> D116
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-F_Mask.gbr' ----   Tue May 23 14:44:31 2023
+
+D21   --> D117
+D22   --> D118
+D23   --> D119
+D24   --> D120
+D25   --> D121
+D26   --> D122
+D27   --> D123
+D28   --> D124
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-F_Paste.gbr' ----   Tue May 23 14:44:31 2023
+
+D10   --> D125
+D11   --> D126
+D12   --> D127
+D13   --> D128
+D14   --> D129
+D15   --> D130
+D16   --> D131
+D17   --> D132
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-F_Silkscreen.gbr' ----   Tue May 23 14:44:31 2023
+
+D10   --> D133
+D11   --> D134
+D12   --> D135
+D13   --> D136
+D14   --> D137
+D15   --> D138
+D16   --> D139
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-B_Cu.gbr' ----   Wed May 24 11:21:44 2023
+
+D21   --> D100
+D22   --> D101
+D23   --> D102
+D24   --> D103
+D25   --> D104
+D26   --> D105
+D27   --> D106
+D28   --> D107
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-F_Paste.gbr' ----   Wed May 24 11:21:44 2023
+
+D10   --> D108
+D11   --> D109
+D12   --> D110
+D13   --> D111
+D14   --> D112
+D15   --> D113
+D16   --> D114
+D17   --> D115
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-F_Silkscreen.gbr' ----   Wed May 24 11:21:44 2023
+
+D10   --> D116
+D11   --> D117
+D12   --> D118
+D13   --> D119
+D14   --> D120
+D15   --> D121
+D16   --> D122
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-B_Mask.gbr' ----   Wed May 24 11:21:44 2023
+
+D21   --> D123
+D22   --> D124
+D23   --> D125
+D24   --> D126
+D25   --> D127
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-Edge_Cuts.gbr' ----   Wed May 24 11:21:44 2023
+
+D10   --> D128
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-F_Fab.gbr' ----   Wed May 24 11:21:44 2023
+
+D10   --> D129
+D11   --> D130
+D12   --> D131
+D13   --> D132
+D14   --> D133
+D15   --> D134
+D16   --> D135
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-Edge_Cuts.gbr' ----   Thu May 25 17:46:28 2023
+
+D10   --> D100
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-F_Courtyard.gbr' ----   Thu May 25 17:46:28 2023
+
+D10   --> D101
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-F_Cu.gbr' ----   Thu May 25 17:46:28 2023
+
+D21   --> D102
+D22   --> D103
+D23   --> D104
+D24   --> D105
+D25   --> D106
+D26   --> D107
+D27   --> D108
+D28   --> D109
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-F_Fab.gbr' ----   Thu May 25 17:46:28 2023
+
+D10   --> D110
+D11   --> D111
+D12   --> D112
+D13   --> D113
+D14   --> D114
+D15   --> D115
+D16   --> D116
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-F_Mask.gbr' ----   Thu May 25 17:46:28 2023
+
+D21   --> D117
+D22   --> D118
+D23   --> D119
+D24   --> D120
+D25   --> D121
+D26   --> D122
+D27   --> D123
+D28   --> D124
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-F_Paste.gbr' ----   Thu May 25 17:46:28 2023
+
+D10   --> D125
+D11   --> D126
+D12   --> D127
+D13   --> D128
+D14   --> D129
+D15   --> D130
+D16   --> D131
+D17   --> D132
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\chris\OneDrive\Documentos\FUNPYTHON\PCB KICAD\FPY\MODULO DE PRACTICAS UPY\Modulo de Practicas uPy\MODULO-DE-PRACTICAS-ESP\GERBER VIDEO 10\Modulo de Practicas uPy-F_Silkscreen.gbr' ----   Thu May 25 17:46:28 2023
+
+D10   --> D133
+D11   --> D134
+D12   --> D135
+D13   --> D136
+D14   --> D137
+D15   --> D138
+D16   --> D139
+-----------------------------------------------------------------
