@@ -1,4 +1,4 @@
-20189294017064251
+20192664562962720
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -57771,6 +57771,13 @@ carambola2 8devices
 104
 52
 Module
+GPS-LCC100P960X1400X210-31N
+
+
+0
+31
+31
+Module
 MODULE_ESP32-DEVKITC-32D
 
 
@@ -85772,6 +85779,13 @@ logo_alcaldia_gye_80mm
 0
 graficos
 logo_dame_una_mano
+
+
+0
+0
+0
+graficos
+logo_ima_15mm
 
 
 0
